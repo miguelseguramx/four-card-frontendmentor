@@ -4,7 +4,7 @@
   --yellow: hsl(34, 97%, 64%);
   --blue: hsl(212, 86%, 64%);
 
-  --dark-gray: hsl(234, 12%, 34%);
+  --dark-gray: #393b4c;
   --gray: hsl(229, 6%, 66%);
   --light-gray: hsl(0, 0%, 98%);
 }
