@@ -92,7 +92,7 @@ h1, h2{
   float: right;
 }
 
-@media(min-height: 900px){
+@media(min-width: 1024px){
   .title-container{
     margin: 4rem;
   }
